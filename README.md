@@ -1,1 +1,1 @@
-Hello, contained in this project are the scripts and data that were used in the making of the distribution model of Morchella diminutive. A repository of environmental layers can be found in my dryad repo (pending approval)
+Hello, contained in this project are the scripts and data that were used in the making of the distribution model of Morchella diminutive. A repository of environmental layers can be found in DOI: 10.5061/dryad.pc866t25j (pending approval)
